@@ -1,6 +1,49 @@
-# Claude Code 从入门到精通
+<div align="center">
+    <h1>🚀 Claude Code 从入门到精通</h1>
+    <h3><em>完整的 AI 辅助编程学习教程</em></h3>
+</div>
 
-完整的 Claude Code 学习教程，从零基础到高级应用，适合所有想学习 AI 辅助编程的开发者。
+<p align="center">
+    <strong>从零基础到高级应用，系统学习 Claude Code，掌握 AI 辅助编程技能，提升开发效率 10 倍。</strong>
+</p>
+
+<p align="center">
+    <a href="https://github.com/0xfnzero/AI-Code-Tutorials">
+        <img src="https://img.shields.io/github/stars/0xfnzero/AI-Code-Tutorials?style=social" alt="GitHub stars">
+    </a>
+    <a href="https://github.com/0xfnzero/AI-Code-Tutorials/network">
+        <img src="https://img.shields.io/github/forks/0xfnzero/AI-Code-Tutorials?style=social" alt="GitHub forks">
+    </a>
+    <a href="https://github.com/0xfnzero/AI-Code-Tutorials/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+    </a>
+    <a href="https://github.com/0xfnzero/AI-Code-Tutorials/issues">
+        <img src="https://img.shields.io/github/issues/0xfnzero/AI-Code-Tutorials" alt="GitHub issues">
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+    <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
+    <img src="https://img.shields.io/badge/Tutorial-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Tutorial">
+</p>
+
+<p align="center">
+    <a href="#-教程大纲">教程大纲</a> •
+    <a href="#-学习路线建议">学习路线</a> •
+    <a href="#-学习目标">学习目标</a> •
+    <a href="#-扩展学习资源">资源</a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/0xfnzero/AI-Code-Tutorials/blob/main/README.md">中文</a> |
+    <a href="https://github.com/0xfnzero/AI-Code-Tutorials/blob/main/README_EN.md">English</a> |
+    <a href="https://fnzero.dev/">Website</a> |
+    <a href="https://t.me/fnzero_group">Telegram</a> |
+    <a href="https://discord.gg/ckf5UHxz">Discord</a>
+</p>
+
+---
 
 ## 📖 快速开始
 
