@@ -93,22 +93,24 @@ This tutorial adopts a progressive approach, divided into three stages: beginner
 - Project documentation automation
 
 #### [Lesson 6: Hands-on Project - Complete Web Application](./tutorials/en/06-web-project.md)
-- Building a task management application from scratch
-- Frontend development (HTML/CSS/JavaScript)
-- Backend development (Node.js + Express)
-- Database integration (SQLite)
-- User authentication system
-- Responsive design
-- Deployment
+Build a task management app from scratch with 8 detailed modules:
+- [1.1 Project Planning](./tutorials/en/06-web-project/01-planning.md) - Requirements, tech stack
+- [1.2 Project Structure](./tutorials/en/06-web-project/02-structure.md) - Directory setup, version control
+- [1.3 Static Page Design](./tutorials/en/06-web-project/03-frontend-ui.md) - HTML/CSS, responsive layout
+- [1.4 Frontend Functionality](./tutorials/en/06-web-project/04-frontend-logic.md) - CRUD operations, local storage
+- [1.5 Backend Setup](./tutorials/en/06-web-project/05-backend-setup.md) - Express, SQLite, API routes
+- [1.6 User Authentication](./tutorials/en/06-web-project/06-authentication.md) - Registration, login, JWT
+- [1.7 Feature Enhancement](./tutorials/en/06-web-project/07-enhancements.md) - Search, filtering, drag-drop
+- [1.8 Deployment](./tutorials/en/06-web-project/08-deployment.md) - Heroku deployment, configuration
 
 #### [Lesson 7: Advanced Techniques and Best Practices](./tutorials/en/07-advanced-techniques.md)
-- Prompt optimization techniques
-- Code review and optimization
-- Debugging techniques
-- Design pattern applications
-- Error handling best practices
-- Security best practices
-- Performance monitoring
+Master advanced development skills with 6 specialized modules:
+- [1.1 Prompt Basics](./tutorials/en/07-advanced-techniques/01-prompt-basics.md) - Precise descriptions, context, examples
+- [1.2 Code Review](./tutorials/en/07-advanced-techniques/02-code-review.md) - Performance analysis, refactoring
+- [1.3 Debugging](./tutorials/en/07-advanced-techniques/03-debugging.md) - Systematic process, breakpoints, logs
+- [1.4 Design Patterns](./tutorials/en/07-advanced-techniques/04-design-patterns.md) - Singleton, Observer, Factory
+- [1.5 Error Handling](./tutorials/en/07-advanced-techniques/05-error-handling.md) - Unified handling, user-friendly messages
+- [1.6 Security](./tutorials/en/07-advanced-techniques/06-security.md) - Input validation, XSS/CSRF protection
 
 ### 📕 Advanced Level (Professional Development)
 
@@ -122,18 +124,40 @@ This tutorial adopts a progressive approach, divided into three stages: beginner
 - Multi-language project development
 
 #### [Lesson 9: Prompt Optimization Techniques](./tutorials/en/09-prompt-optimization.md) ⭐
-- Six golden principles of prompt optimization
-- Advanced prompt techniques (role-playing, chain of thought, constraint prompts, pattern reference)
-- Practical template library (feature development, code review, bug fixing, performance optimization)
-- Best practices and anti-patterns
-- **Secret to 10x efficiency boost**
+**Secret to 10x efficiency boost** with 6 core modules:
+- [1.1 Six Golden Principles](./tutorials/en/09-prompt-optimization/01-six-principles.md) - Specific, structured, context-rich
+- [1.2 Advanced Techniques](./tutorials/en/09-prompt-optimization/02-advanced-techniques.md) - Role-setting, chain of thought, constraints
+- [1.3 Template Library](./tutorials/en/09-prompt-optimization/03-template-library.md) - Feature dev, code review, bug fixes
+- [1.4 Best Practices](./tutorials/en/09-prompt-optimization/04-best-practices.md) - Dos/Don'ts, common pitfalls
+- [1.5 Case Studies](./tutorials/en/09-prompt-optimization/05-case-studies.md) - Real projects, before/after
+- [1.6 Practice Exercises](./tutorials/en/09-prompt-optimization/06-exercises.md) - Prompt rewriting, hands-on practice
 
 #### [Lesson 10: AI Agent System](./tutorials/en/10-ai-agents.md) ⭐
-- AI agent concepts and advantages
-- Six types of professional agents (Development, Architecture, Testing, DevOps, Security, Data)
-- Four collaboration modes (single agent, serial, parallel, review)
-- Hands-on case: complete project development
-- **Building your expert team**
+**Building your expert team** with 7 professional modules:
+- [1.1 Core Concepts](./tutorials/en/10-ai-agents/01-concepts.md) - What are agents, advantages, classification
+- [1.2 Development Agents](./tutorials/en/10-ai-agents/02-development-agents.md) - Frontend, backend, full-stack experts
+- [1.3 Architecture Agents](./tutorials/en/10-ai-agents/03-architecture-agents.md) - System, data, infrastructure architects
+- [1.4 Testing Agents](./tutorials/en/10-ai-agents/04-testing-agents.md) - Test engineers, QA, performance testing
+- [1.5 DevOps Agents](./tutorials/en/10-ai-agents/05-devops-agents.md) - CI/CD, containers, monitoring experts
+- [1.6 Collaboration Modes](./tutorials/en/10-ai-agents/06-collaboration-modes.md) - Single, serial, parallel, review
+- [1.7 Real Projects](./tutorials/en/10-ai-agents/07-real-projects.md) - Complete project development cases
+
+#### [Lesson 11: 34 Practical Tips](./tutorials/en/11-practical-tips.md)
+- Command Line (CLI) Tips (7 tips)
+- Image Processing Tips (6 tips)
+- Integration & External Data Tips (5 tips)
+- claude.md Configuration Tips (7 tips)
+- Custom Slash Command Tips (6 tips)
+- UI & Workflow Tips (3 tips)
+
+#### [Lesson 12: Best Practices (Official Anthropic)](./tutorials/en/12-best-practices.md) ⭐
+**Anthropic's official best practices** with 6 core topics:
+- Customize Your Setup (CLAUDE.md, tool permissions, gh CLI)
+- Give Claude More Tools (bash, MCP, slash commands)
+- Try Common Workflows (explore-plan-code-commit, TDD, visual feedback)
+- Optimize Your Workflow (specific instructions, images, URLs, prompt correction)
+- Use Headless Mode for Infrastructure Automation (issue triage, linter)
+- Multiple Claude Collaboration (code review, multi-repo, worktree)
 
 ## 🎓 Learning Path Recommendations
 
