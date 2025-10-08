@@ -159,6 +159,31 @@ Master advanced development skills with 6 specialized modules:
 - Use Headless Mode for Infrastructure Automation (issue triage, linter)
 - Multiple Claude Collaboration (code review, multi-repo, worktree)
 
+#### [Lesson 13: Complete MCP Server Guide](./tutorials/en/13-mcp-servers-guide.md) ⭐
+**Comprehensive MCP server configuration guide from beginner to expert**:
+- MCP core concepts and architecture
+- Three methods of adding servers (CLI, config file, project-level)
+- Scope details (Local/User/Project)
+- 10 most practical MCP server recommendations
+- Common errors and solutions
+- Debugging techniques and best practices
+- Special notes for Chinese users
+
+#### [Lesson 14: Complete Usage Guide](./tutorials/en/14-complete-usage-guide.md) ⭐
+**Claude Code encyclopedia and daily reference manual** with comprehensive content:
+- Installation, configuration, and system requirements
+- Complete CLI commands reference
+- Configuration file management (global/project/environment)
+- Deep MCP server integration
+- Prompt engineering and template library
+- File operations and code refactoring
+- Git workflow and team collaboration
+- Project management and documentation
+- Performance optimization techniques
+- Security best practices
+- Troubleshooting and debugging
+- Production environment practices (CI/CD, Docker, monitoring)
+
 ## 🎓 Learning Path Recommendations
 
 ### For Complete Beginners
