@@ -7,5 +7,5 @@ https://github.com/wshobson/agents
 3. AI 编程出海不知道做什么？通过这个方法，有人月入 10 万: 
 https://aicoding.juejin.cn/post/7553598949196021812
 
-4. 耗时1年，终于我也拥有属于自己的AI工作流:
-https://aicoding.juejin.cn/post/7551359585900331060
+4. 耗时1年，终于我也拥有属于自己的AI工作流: 
+5. https://aicoding.juejin.cn/post/7551359585900331060
