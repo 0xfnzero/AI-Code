@@ -40,7 +40,7 @@
     <a href="https://github.com/0xfnzero/AI-Code-Tutorials/blob/main/README_EN.md">English</a> |
     <a href="https://fnzero.dev/">Website</a> |
     <a href="https://t.me/fnzero_group">Telegram</a> |
-    <a href="https://discord.gg/ckf5UHxz">Discord</a>
+    <a href="https://discord.gg/vuazbGkqQE">Discord</a>
 </p>
 
 ---
